@@ -1,0 +1,41 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: medium;
+    line-height: 1.5em;
+    margin: 0;
+    border: 1px solid transparent;
+    background-color: #1D1F21;
+}
+h1 {
+    font-size: 1.8em;
+}
+h1.title {
+    text-align: center;
+}
+
+section {
+    background-color: #FFF;
+    padding: 10px;
+}
+
+.tableContainer {
+    clear: both;
+    display: table;
+    border-spacing: 10px;
+    width: 100%;
+}
+
+.tableRow {
+    display: table-row;
+}
+
+.main {
+    display: table-cell;
+}
+.ice {
+    clear: left;
+    max-width: 1080px;
+    min-width: 640px;
+    padding-top: 10px;
+    margin: 10px auto;
+}

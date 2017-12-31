@@ -1,0 +1,20 @@
+table {
+    margin: 0px auto;
+    border: thin solid black;
+    caption-side: top;
+    border-collapse: collapse;
+}
+caption {
+    font-style: italic;
+}
+td {
+    padding: 5px;
+    border: thin dotted #000;
+    text-align: center;
+}
+td ul li {
+    text-align: left;
+}
+td pre {
+    text-align: left;
+}
